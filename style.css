@@ -63,7 +63,6 @@ section.parallax {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    width: 98.7vw;
     margin: auto;
     padding: 50px 0px;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.596);
